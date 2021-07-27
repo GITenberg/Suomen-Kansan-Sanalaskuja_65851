@@ -1,5 +1,8 @@
 _repo: Suomen-Kansan-Sanalaskuja_65851
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Lönnrot, Elias
@@ -12,6 +15,8 @@ creator:
     - https://fi.wikipedia.org/wiki/Elias_L%C3%B6nnrot
     - https://en.wikipedia.org/wiki/Elias_L%C3%B6nnrot
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/65851#Suomen-Kansan-Sanalaskuja
 gutenberg_issued: '2021-07-17'
 gutenberg_type: Text
 identifiers:
